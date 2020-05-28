@@ -1,0 +1,2 @@
+# .poggit.yml
+Mypoggit
